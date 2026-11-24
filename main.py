@@ -1,5 +1,7 @@
 """The Houseplant Out-of-Office — make.fun bounty entry.
 
+The joke: a neglected office fern quits politely — it has gone
+on strike and organized the succulents instead of asking for water.
 Writes the entry line to entry.txt in the output dir (where the
 program/v1 harness gate reads it: UTF-8 text, 1-120 characters)
 and prints it.
